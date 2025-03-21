@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133219551220",
+    "project_id": "animesh-9ab38",
+    "storage_bucket": "animesh-9ab38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133219551220:android:ad88d213f9c331cb9f5ba1",
+        "android_client_info": {
+          "package_name": "com.admin.app.tuktuk_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHI9jmz42c50cpCoOi99sahANIHE87cBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133219551220:android:3363c5bc8b8e049b9f5ba1",
+        "android_client_info": {
+          "package_name": "com.tuktuk.tuktuk_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHI9jmz42c50cpCoOi99sahANIHE87cBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
